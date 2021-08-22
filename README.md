@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Shubham Rakshit.
+- 👋 Hey there, I’m **Shubham Rakshit**.
 - 🔭 I’m currently working as a Software Engineer.
 - 👀 I’m interested in JavaScript and its endless frameworks.
 - 🌱 I’m currently learning Salesforce Development.
