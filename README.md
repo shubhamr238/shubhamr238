@@ -1,7 +1,6 @@
 - 👋 Hey there, I’m **Shubham Rakshit**.
-- 🔭 I’m currently working as a Software Engineer.
+- 🔭 I’m currently working as a Salesforce Developer.
 - 👀 I’m interested in JavaScript and its endless frameworks.
-- 🌱 I’m currently learning Salesforce Development.
 - 🤖 Interested to learn Mechine Learning in Near Future.
 - 📫 How to reach me? You can reach me at **shubhamr238@gmail.com**
 - ⚡ Fun fact: I like Cats!🐈
